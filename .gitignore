@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
+
+# Conda
+*.conda
+*.condarc
+
+# Data & outputs
+data/
+artifacts/
+*.pt
+*.pth
+*.ckpt
+*.log
+
+# Env files (optional)
+.env
